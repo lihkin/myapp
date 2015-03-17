@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "0.1.0",
+  "description": "my new express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Kasthurirangan",
+  "license": "Apache",
+  "dependencies": {
+    "express": "~4.12.2"
+  }
+}
