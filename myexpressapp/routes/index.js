@@ -14,7 +14,7 @@ router.put('/', function(req, res, next) {
   res.send("PUT done");
 });
 
-router.update('/', function(req, res, next) {
+router.delete('/', function(req, res, next) {
   res.send("UPDATE done");
 });
 
